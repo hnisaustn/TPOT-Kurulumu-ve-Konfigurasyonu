@@ -1,1 +1,1 @@
-# TPOT-Kurulumu-ve-Konfigurasyonu
+# TPOT-Kurulumu-ve-Konfigurasyonu Proje Raporu
