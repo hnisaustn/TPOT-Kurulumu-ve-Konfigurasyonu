@@ -1,0 +1,1 @@
+# TPOT-Kurulumu-ve-Konfigurasyonu
